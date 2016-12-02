@@ -6,3 +6,4 @@ public interface Stack{
 	public Object getTop() throws Exception;
 	public boolean notEmpty();
 }
+//comment
